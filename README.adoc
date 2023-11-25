@@ -1,6 +1,6 @@
 # Manali (15th - 22nd December)
 
-# [.underline]#Travel#
+# <u>Travel</u>
 
 ### [.underline]#Flight (15000)#
 * Bengaluru - Delhi : 
