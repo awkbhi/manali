@@ -2,7 +2,7 @@
 
 # <u>Travel</u>
 
-### [.underline]#Flight (15000)#
+### <u>Flight (15000)</u>
 * Bengaluru - Delhi : 
 ** Fri, Dec 15th
 ** 3:15 PM - 6:10 PM
