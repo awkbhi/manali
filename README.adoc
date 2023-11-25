@@ -10,7 +10,7 @@
 
 # TRAVEL
 
-### Flight (15000)
+### Flight (30000)
 * Bengaluru - Delhi : 
 ** Fri, Dec 15th
 ** 3:15 PM - 6:10 PM
